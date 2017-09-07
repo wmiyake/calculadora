@@ -20,8 +20,9 @@ namespace OperadoresAritmeticos
         {
             int numero1 = Convert.ToInt32(txbNumero1.Text);
             int numero2 = Convert.ToInt32(txbNumero2.Text);
-            int resultado = numero1 + numero2;
-            txbResultado.Text = resultado.ToString();
+            //int resultado = numero1 + numero2;
+            numero1 += numero2; //Dessa forma o processamento é mais rapido
+            txbResultado.Text = numero1.ToString();
         }
 
         private void btnSubtrair_Click(object sender, EventArgs e)
