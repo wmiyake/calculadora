@@ -1,0 +1,9 @@
+C:\Users\Wellington Miyake\source\repos\Estudo CSharpBasic\OperadoresAritmeticos\bin\Debug\OperadoresAritmeticos.exe
+C:\Users\Wellington Miyake\source\repos\Estudo CSharpBasic\OperadoresAritmeticos\bin\Debug\OperadoresAritmeticos.pdb
+C:\Users\Wellington Miyake\source\repos\Estudo CSharpBasic\OperadoresAritmeticos\obj\Debug\OperadoresAritmeticos.csprojResolveAssemblyReference.cache
+C:\Users\Wellington Miyake\source\repos\Estudo CSharpBasic\OperadoresAritmeticos\obj\Debug\OperadoresAritmeticos.frmCalculadora.resources
+C:\Users\Wellington Miyake\source\repos\Estudo CSharpBasic\OperadoresAritmeticos\obj\Debug\OperadoresAritmeticos.Properties.Resources.resources
+C:\Users\Wellington Miyake\source\repos\Estudo CSharpBasic\OperadoresAritmeticos\obj\Debug\OperadoresAritmeticos.csproj.GenerateResource.Cache
+C:\Users\Wellington Miyake\source\repos\Estudo CSharpBasic\OperadoresAritmeticos\obj\Debug\OperadoresAritmeticos.csproj.CoreCompileInputs.cache
+C:\Users\Wellington Miyake\source\repos\Estudo CSharpBasic\OperadoresAritmeticos\obj\Debug\OperadoresAritmeticos.exe
+C:\Users\Wellington Miyake\source\repos\Estudo CSharpBasic\OperadoresAritmeticos\obj\Debug\OperadoresAritmeticos.pdb
